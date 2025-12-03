@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMid meet">
+  <g>
+    <g transform="translate(0,0)">
+      <image href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -15; 0 0; 0 15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(160,0)">
+      <image href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 15; 0 0; 0 -15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-0.5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(320,0)">
+      <image href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-2.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -15; 0 0; 0 15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-1s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(480,0)">
+      <image href="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-3.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 15; 0 0; 0 -15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-1.5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(640,0)">
+      <image href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-4.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -15; 0 0; 0 15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-2s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(800,0)">
+      <image href="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 15; 0 0; 0 -15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-2.5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(960,0)">
+      <image href="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-7.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 -15; 0 0; 0 15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-3s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(1120,0)">
+      <image href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" width="140" height="28" x="0" y="45"/>
+      <animateTransform attributeName="transform" type="translate" from="1200 0" to="-160 0" dur="18s" begin="-8.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0; 0 15; 0 0; 0 -15; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="3s" begin="-3.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
