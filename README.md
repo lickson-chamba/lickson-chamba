@@ -77,10 +77,15 @@ Always learning, always building. Feel free to check out my work or drop feedbac
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lickson-chamba&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lickson-chamba&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lickson-chamba&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickson-chamba&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
   </a>
+</div>
+
+<h2 align="center">🐍 My Contribution Graph</h2>
+<div align="center">
+  <img src="https://github.com/lickson-chamba/lickson-chamba/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
