@@ -1,72 +1,29 @@
-YOOOOOO
-I'm a computer science student who spends most of my time building things that help me learn. I like working with Python and C++, exploring how systems work under the hood, and applying what I’m learning to real projects.
+Hi, i'm Lickson
 
-Right now I’m focused on:
+Computer science student at the University Of South Africa who likes building practical projects while learning the fundamentals. I enjoy Python, C++, backend basics, and small cybersecurity tools.
 
-Strengthening my core CS fundamentals
+What I’m into right now:
 
-Getting comfortable with backend development
+    Python scripts for security (scanners, hash tools)
+    
+    Backend development and web projects
+    
+    Understanding computer systems and algorithms
+    
+    Improving my logic through CS coursework
 
-Working on cybersecurity-related Python tools
+Current projects:
 
-Building a dynamic, professional blog for the George Maluleka Foundation
+    A dynamic blog website for the George Maluleka Foundation
+    
+    Practice tools in Python to sharpen my skills
 
-🔧 Tech I Use
+A bit about me:
 
-  Languages: Python, C++, JavaScript
-  
-  Tools & Concepts: Algorithms, data structures, OOP, backend basics, cybersecurity fundamentals
-  
-  Interests: AI for security, automation scripts, small utilities, system concepts
+    Big One Piece fan
+    
+    Anime keeps me sane during study sessions
+    
+    I speed-solve Rubik’s cubes when I need a break
 
-📚 What I’m Learning
-
-  Deeper Python (loops, data structures, file handling, modules)
-  
-  Web development and backend logic
-  
-  Computer Systems (architecture, memory, low-level concepts)
-  
-  Linear Algebra and theoretical CS
-  
-  Practical cybersecurity (CTFs, scanners, hash tools)
-
-🧪 Projects I'm Building
-
-  Python security tools (port scanners, hash crackers, log analyzers)
-  
-  GMF Blog: A fully dynamic site with animations and a clean layout
-  
-  Small practice scripts to sharpen fundamentals
-  
-  Coursework implementations for COS, INF, and MAT modules
-
-🎯 Goals
-
-  Build a portfolio of real, working projects
-  
-  Become confident in backend development
-  
-  Create more security-oriented tools using Python
-  
-  Keep improving through consistent project work
-
-📬 Always Learning
-
-If you’re working on something similar, feel free to connect or check out my repos. I’m always open to feedback, ideas, and new challenges
-
-and , I LOVE ONE PIECE😄
-<!--
-**lickson-chamba/lickson-chamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, always building. Feel free to check out my work or drop feedback.
