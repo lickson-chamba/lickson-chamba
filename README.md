@@ -15,7 +15,18 @@ What I’m into right now:
   I speed-solve Rubik’s cubes when I need a break
 
 Always learning, always building. Feel free to check out my work or drop feedback.
+<h2 align="center">🤝 Connect with Me</h2>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/lickson-chamba-aa79602ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://instagram.com/sxn.4iv4">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  </div>
 <h2 align="center">⚡ The Lickson Stack</h2>
 
 <div align="center">
@@ -62,3 +73,14 @@ Always learning, always building. Feel free to check out my work or drop feedbac
   </marquee>
 </div>
 
+<h2 align="center">⚡ Coding Activity</h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lickson-chamba&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lickson-chamba&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+  </a>
+</div>
