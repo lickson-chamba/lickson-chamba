@@ -75,12 +75,15 @@ Always learning, always building.
 
 <h2 align="center">⚡ Coding Activity</h2>
 
-<a href="http://www.github.com/lickson-chamba"><img src="https://github-readme-stats.vercel.app/api?username=lickson-chamba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="lickson-chamba's GitHub stats" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lickson-chamba&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lickson-chamba&theme=ocean_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lickson-chamba&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lickson-chamba&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
 
 <a href="http://www.github.com/lickson-chamba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lickson-chamba&stroke=ffffff&background=7f1d1d&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<h2 align="center">🐍 My Contribution Graph</h2>
-<div align="center">
-  <img src="https://github.com/lickson-chamba/lickson-chamba/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
