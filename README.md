@@ -1,6 +1,6 @@
-1Hi, i'm Lickson
+Hi, i'm Lickson
 
-Computer science student at the University Of South Africa who likes building practical projects while learning the fundamentals. I enjoy Python, C++, backend implementattion, and small cybersecurity tools.
+Computer science student who likes building practical projects while learning the fundamentals. I enjoy Python, C++, backend implementattion, and small cybersecurity tools.
 
 What I’m into right now:
 
@@ -14,7 +14,7 @@ What I’m into right now:
     
   I speed-solve Rubik’s cubes when I need a break
 
-Always learning, always building. Feel free to check out my work or drop feedback.
+Always learning, always building.
 <h2 align="center">🤝 Connect with Me</h2>
 
 <div align="center">
