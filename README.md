@@ -1,4 +1,4 @@
-Hi, i'm Lickson
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lickson
 
 Computer science student who likes building practical projects while learning the fundamentals. I enjoy Python, C++, backend implementattion, and small cybersecurity tools.
 
@@ -75,15 +75,9 @@ Always learning, always building.
 
 <h2 align="center">⚡ Coding Activity</h2>
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=lickson-chamba&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
-</a>
+<a href="http://www.github.com/lickson-chamba"><img src="https://github-readme-stats.vercel.app/api?username=lickson-chamba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="lickson-chamba's GitHub stats" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickson-chamba&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
-</a>
-</div>
+<a href="http://www.github.com/lickson-chamba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lickson-chamba&stroke=ffffff&background=7f1d1d&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <h2 align="center">🐍 My Contribution Graph</h2>
